@@ -1,0 +1,14 @@
+A B neighbour
+A B friend
+B C coworker
+C F coworker 
+C F friend
+F G coworker
+F G family
+C E friend
+E D family
+E I coworker 
+E I neighbour 
+I J coworker
+E J friend 
+E H coworker
