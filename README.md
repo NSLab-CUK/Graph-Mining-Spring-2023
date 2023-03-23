@@ -20,3 +20,7 @@ Welcome to the Graph Mining (06837-01) class repository for the Department of Ar
 <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2023" />
 </a>
+
+***
+
+<a href="https://nslab-cuk.github.io/"><img src="https://github.com/NSLab-CUK/NSLab-CUK/raw/main/Logo_Dual_Wide.png"/></a>
