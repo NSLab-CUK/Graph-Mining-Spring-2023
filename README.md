@@ -14,6 +14,16 @@ Welcome to the Graph Mining (06837-01) class repository for the Department of Ar
 * `Assignments_1_solution.ipynb`: Solutions for the assignments (will be uploaded after the deadline)
 
 
+### Assignment
+
+#### Assignment Submission
+
+Please make sure to submit all assignments through the online learning platform before the designated deadline. Grading for assignments will be based on a scale of A (10 points), B (8 points), C (6 points), and F (0 points) for any assignments that are not submitted on time.
+
+#### Late Assignment Submission Policy
+
+Late submissions will be accepted, but the maximum grade that can be achieved for any assignments submitted after the deadline is B (8 points).
+
 
 ### Contributors
 
