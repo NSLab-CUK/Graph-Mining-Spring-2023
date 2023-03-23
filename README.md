@@ -4,7 +4,7 @@ Welcome to the Graph Mining (06837-01) class repository for the Department of Ar
 * [Van Thuy Hoang](https://nslab-cuk.github.io/member/hoangvanthuy90) - [![E-mail](https://img.shields.io/badge/-hoangvanthuy90@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:hoangvanthuy90@gmail.com)
 * [Sang Thanh Nguyen](https://nslab-cuk.github.io/member/sangnguyen) - [![E-mail](https://img.shields.io/badge/-sang.ngt99@gmail.com-0C2E86?style=flat-square&logo=Gmail&logoColor=white)](mailto:sang.ngt99@gmail.com)
 
-***
+
 
 ### Description
 
@@ -13,13 +13,15 @@ Welcome to the Graph Mining (06837-01) class repository for the Department of Ar
 * `Assignments_*.ipynb`: Weekly assignments (Students have to submit through e-class until the next Wednesday)
 * `Assignments_1_solution.ipynb`: Solutions for the assignments (will be uploaded after the deadline)
 
-***
+
 
 ### Contributors
 
 <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=NSLab-CUK/Graph-Mining-Spring-2023" />
 </a>
+
+<br>
 
 ***
 
