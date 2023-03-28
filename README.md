@@ -11,7 +11,7 @@ Welcome to the Graph Mining (06837-01) class repository for the Department of Ar
 * `SampleCode_*.ipynb`: Code samples used in the lectures on every Tuesday
 * `Practice_*.ipynb`: Practices on every Thursday
 * `Assignments_*.ipynb`: Weekly assignments (Students have to submit through e-class until the next Wednesday)
-* `Assignments_1_solution.ipynb`: Solutions for the assignments (will be uploaded after the deadline)
+* `Assignments_*_solution.ipynb`: Solutions for the assignments (will be uploaded after the deadline)
 
 
 ### Assignment
