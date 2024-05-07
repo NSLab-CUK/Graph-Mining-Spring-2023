@@ -40,6 +40,13 @@ Please make sure to submit all assignments through the online learning platform 
 Late submissions will be accepted, but the maximum grade that can be achieved for any assignments submitted after the deadline is B (8 points).
 
 
+### Syllabus
+
+The syllabus for this class can be found on the following Notion page.
+
+* <a href="https://ns-cuk.notion.site/06837-Graph-Mining-Spring-2023-0b9257569a0e4ad3be2bac9ed427a4ed?pvs=4"><img src="https://img.shields.io/badge/Notion-Syllabus-000000?style=flat-square&logo=Notion"></a>
+
+
 ### Contributors
 
 <a href="https://github.com/NSLab-CUK/Graph-Mining-Spring-2023/graphs/contributors">
